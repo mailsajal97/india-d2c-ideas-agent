@@ -279,7 +279,7 @@ Without this, the user sees dead silence between stage transitions and starts wo
 
 ## Credits
 
-Built by [Sajal Agarwal](https://github.com/mailsajal97).
+Built by [Sajal Srivastava](https://github.com/mailsajal97).
 
 A multi-agent Claude Code skill that surfaces launchable Indian D2C product ideas — tuned to your capital ceiling, category preferences, and distribution channels.
 
